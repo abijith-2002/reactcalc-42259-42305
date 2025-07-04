@@ -162,6 +162,19 @@
   flex: 2 2 0;
 }
 
+/* Scientific function button style */
+.calc-btn-func {
+  background: #ffe4c7;
+  color: #af6200;
+  border: 1px solid #ffc285;
+  font-weight: 600;
+}
+.calc-btn-func:hover, .calc-btn-func:focus {
+  background: #ffd3a2;
+  color: #d98318;
+  box-shadow: 0 2px 8px #ff980022;
+}
+
 /* Footer */
 .calc-footer {
   text-align: center;
